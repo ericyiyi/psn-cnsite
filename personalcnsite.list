@@ -1,6 +1,6 @@
 DOMAIN-SUFFIX,mp3long.com
-DOMAIN-SUFFIX,ihezu.cn
-DOMAIN-SUFFIX,ihezu.com
+#DOMAIN-SUFFIX,ihezu.cn
+#DOMAIN-SUFFIX,ihezu.com
 DOMAIN-SUFFIX,metshop.cn
 DOMAIN-SUFFIX,metshop.vip
 DOMAIN-SUFFIX,lgych.com
